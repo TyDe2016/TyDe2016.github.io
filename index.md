@@ -43,11 +43,12 @@ We welcome all contributions, both theoretical and practical of:
 * Pierre-Evariste Dagand
 * Richard Eisenberg
 * Catalin Hritcu
-* Makoto Takeyama
+* James McKinna
 * Keiko Nakata
 * Tomas Petricek
 * Birgitte Pientka
 * Tom Schrijvers
+* Makoto Takeyama
 * Brent Yorgey
 * Nicolas Wu
 
