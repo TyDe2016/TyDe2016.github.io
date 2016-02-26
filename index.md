@@ -56,13 +56,13 @@ We welcome all contributions, both theoretical and practical of:
 
 We plan to have formal proceedings, published by the ACM. Accepted
 papers will be included in the ACM Digital Library. Authors must grant
-ACM publication rights upon acceptance
-(http://authors.acm.org/main.html), but may retain copyright if they
-wish. Authors are encouraged to publish auxiliary material with their
-paper (source code, test data, and so forth). The proceedings will be
-freely available for download from the ACM Digital Library from one
-week before the start of the conference until two weeks after the
-conference.
+[ACM publication rights upon
+acceptance](http://authors.acm.org/main.html), but may retain
+copyright if they wish. Authors are encouraged to publish auxiliary
+material with their paper (source code, test data, and so forth). The
+proceedings will be freely available for download from the ACM Digital
+Library from one week before the start of the conference until two
+weeks after the conference.
 
 ### Submission details
 
@@ -86,7 +86,7 @@ using the ACM SIGPLAN style guidelines (two-column, 9pt). Regular
 research papers must not exceed 12 pages. Extended abstracts must not
 exceed 2 pages; if applicable, the with the label 'Extended abstract'.
 
-Papers should be submitted via Easychair.
+Papers should be submitted via [Easychair](https://easychair.org/conferences/?conf=tyde16).
 
 ### Travel Support
 
@@ -95,6 +95,6 @@ to help cover travel expenses. PAC also offers other support, such as
 for child-care expenses during the meeting or for travel costs for
 companions of SIGPLAN members with physical disabilities, as well as for
 travel from locations outside of North America and Europe. For details
-on the PAC program, see its web page (http://www.sigplan.org/PAC.htm).
+on the PAC program, see [its web page](http://www.sigplan.org/PAC.htm).
 
 
