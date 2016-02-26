@@ -52,7 +52,6 @@ We welcome all contributions, both theoretical and practical of:
 
 ### Proceedings and Copyright
 
-
 We plan to have formal proceedings, published by the ACM. Accepted
 papers will be included in the ACM Digital Library. Authors must grant
 [ACM publication rights upon
