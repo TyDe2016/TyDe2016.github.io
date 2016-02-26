@@ -14,14 +14,12 @@ programs. The workshop unifies two workshops that have been held
 previously at ICFP: the Workshop on Generic Programming and the
 Workshop on Dependently Typed Programming.
 
-These two research areas have a rich history, both to practitioners
-and to theoreticians, and a deep connection with the functional
-programming community. Novel techniques explored by both communities
-has gradually spread to more mainstream languages. This workshop
-brings together leading researchers and practitioners in generic
-programming and dependently typed programming from around the world,
-and features papers capturing the state of the art in these important
-areas.
+These two research areas have a rich history, bridging theory and
+practice. Novel techniques explored by both communities has gradually
+spread to more mainstream languages. This workshop aims to bring
+together leading researchers and practitioners in generic programming
+and dependently typed programming from around the world, and features
+papers capturing the state of the art in these important areas.
 
 We welcome all contributions, both theoretical and practical of:
 
@@ -29,7 +27,7 @@ We welcome all contributions, both theoretical and practical of:
   * programming with dependent types,
   * design and implementation of programming languages, exploiting
     types in novel ways,
-  * exploiting typed data, data dependent data, type providers
+  * exploiting typed data, data dependent data, or type providers
   * static and dynamic analyses of typed programs,
   * tools, IDEs, or testing tools exploiting type information,
   * pearls, being elegant, instructive examples of types used in the
@@ -37,20 +35,20 @@ We welcome all contributions, both theoretical and practical of:
 
 ### Program Committee
 
-* James Chapmen (co-chair)
-* Wouter Swierstra (co-chair)
-* David Christiansen
-* Pierre-Evariste Dagand
-* Richard Eisenberg
-* Catalin Hritcu
-* James McKinna
-* Keiko Nakata
-* Tomas Petricek
-* Birgitte Pientka
-* Tom Schrijvers
+* [James Chapman](https://pure.strath.ac.uk/portal/en/persons/james-chapman%2847bcec39-6faa-4200-8a1d-6769e4b91fc4%29/contact.html), University of Strathclyde (co-chair)
+* [Wouter Swierstra](http://www.staff.science.uu.nl/~swier004), University of Utrecht (co-chair)
+* [David Christiansen](https://www.itu.dk/people/drc/), Indiana University 
+* [Pierre-Evariste Dagand](https://pages.lip6.fr/Pierre-Evariste.Dagand/), LIP6
+* [Richard Eisenberg](http://www.cis.upenn.edu/~eir/), University of Pennsylvania
+* [Catalin Hritcu](http://prosecco.gforge.inria.fr/personal/hritcu/), INRIA Paris
+* [James McKinna](http://www.inf.ed.ac.uk/people/staff/James_McKinna.html), University of Edinburgh
+* [Keiko Nakata](http://cs.ioc.ee/~keiko/), FireEye
+* [Tomas Petricek](http://tomasp.net/)
+* [Birgitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University
+* [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/), University of Leuven
 * Makoto Takeyama
-* Brent Yorgey
-* Nicolas Wu
+* [Brent Yorgey](http://dept.cs.williams.edu/~byorgey/), Hendrix College
+* [Nicolas Wu](http://zenzike.com/), University of Bristol
 
 ### Proceedings and Copyright
 
@@ -67,10 +65,12 @@ weeks after the conference.
 
 ### Submission details
 
+Papers should be submitted via
+[Easychair](https://easychair.org/conferences/?conf=tyde16).
+
   * Submission deadline:        Friday, 10th June, 2016 
-  * Extended abstract deadline: TBA
+  * Extended abstract deadline: Friday, 24th June, 2016
   * Author notification:        Friday, 8th July, 2016
-  * Final version due:          TBA
   * Workshop:                   Sunday, 18th September, 2016
 
 Submitted papers should fall into one of two categories:
@@ -85,9 +85,8 @@ that the authors would like to present at the workshop.
 All submissions should be in portable document format (PDF), formatted
 using the ACM SIGPLAN style guidelines (two-column, 9pt). Regular
 research papers must not exceed 12 pages. Extended abstracts must not
-exceed 2 pages; if applicable, the with the label 'Extended abstract'.
-
-Papers should be submitted via [Easychair](https://easychair.org/conferences/?conf=tyde16).
+exceed 2 pages. Extended abstracts must be submitted with the label
+'Extended abstract' clearly in the title.
 
 ### Travel Support
 
