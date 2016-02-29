@@ -37,7 +37,7 @@ We welcome all contributions, both theoretical and practical of:
 
 ### Program Committee
 
-* [James Chapman](https://pure.strath.ac.uk/portal/en/persons/james-chapman%2847bcec39-6faa-4200-8a1d-6769e4b91fc4%29/contact.html), University of Strathclyde (co-chair)
+* [James Chapman](https://jmchapman.github.io), University of Strathclyde (co-chair)
 * [Wouter Swierstra](http://www.staff.science.uu.nl/~swier004), University of Utrecht (co-chair)
 * [David Christiansen](https://www.itu.dk/people/drc/), Indiana University 
 * [Pierre-Evariste Dagand](https://pages.lip6.fr/Pierre-Evariste.Dagand/), LIP6
@@ -45,10 +45,10 @@ We welcome all contributions, both theoretical and practical of:
 * [Catalin Hritcu](http://prosecco.gforge.inria.fr/personal/hritcu/), INRIA Paris
 * [James McKinna](http://www.inf.ed.ac.uk/people/staff/James_McKinna.html), University of Edinburgh
 * [Keiko Nakata](http://cs.ioc.ee/~keiko/), FireEye
-* [Tomas Petricek](http://tomasp.net/)
+* [Tomas Petricek](http://tomasp.net/), University of Cambridge
 * [Birgitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University
 * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/), University of Leuven
-* Makoto Takeyama
+* Makoto Takeyama, University of Kanagawa
 * [Brent Yorgey](http://dept.cs.williams.edu/~byorgey/), Hendrix College
 * [Nicolas Wu](http://zenzike.com/), University of Bristol
 
