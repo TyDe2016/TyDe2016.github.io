@@ -3,14 +3,14 @@ title: TyDe '16
 layout: default
 ---
 
-## Type-directed Development (TyDe '16)
+## 1st Workshop on Type-directed Development (TyDe '16)
 
-### 1st Workshop on Dependently Typed and Generic Programming
+### Dependently Typed and Generic Programming
 
 ### Goals of the workshop
 
 
-The workshop on Type Directed Programming aims to show how static type
+The workshop on Type-directed Development aims to show how static type
 information may be used effectively in the development of computer
 programs. The workshop unifies two workshops that have been held
 previously at ICFP: the Workshop on Generic Programming and the
