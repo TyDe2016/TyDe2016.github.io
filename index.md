@@ -13,10 +13,10 @@ layout: default
 The workshop on Type-directed Development aims to show how static type
 information may be used effectively in the development of computer
 programs. The workshop unifies two workshops that have been held
-previously at ICFP: the Workshop on Generic Programming and the
-Workshop on Dependently Typed Programming.
+previously at ICFP: the Workshop on Dependently Typed Programming and
+the Workshop on Generic Programming.
 
-These two research areas have a rich history, bridging theory and
+These two research areas have a rich history and bridge both theory and
 practice. Novel techniques explored by both communities has gradually
 spread to more mainstream languages. This workshop aims to bring
 together leading researchers and practitioners in generic programming
@@ -25,15 +25,15 @@ papers capturing the state of the art in these important areas.
 
 We welcome all contributions, both theoretical and practical of:
 
-  * generic programming,
-  * programming with dependent types,
+  * dependently typed programming;
+  * generic programming;
   * design and implementation of programming languages, exploiting
-    types in novel ways,
-  * exploiting typed data, data dependent data, or type providers
-  * static and dynamic analyses of typed programs,
-  * tools, IDEs, or testing tools exploiting type information,
+    types in novel ways;
+  * exploiting typed data, data dependent data, or type providers;
+  * static and dynamic analyses of typed programs;
+  * tools, IDEs, or testing tools exploiting type information;
   * pearls, being elegant, instructive examples of types used in the
-    derivation, calculation, or construction of programs;
+    derivation, calculation, or construction of programs.
 
 ### Program Committee
 
@@ -66,7 +66,13 @@ weeks after the conference.
 
 ### Submission details
 
-Papers should be submitted via
+
+Submitted papers should fall into one of two categories:
+
+  * Regular research papers (12 pages)
+  * Extended abstracts (2 pages)
+
+Submission is via
 [Easychair](https://easychair.org/conferences/?conf=tyde16).
 
   * Submission deadline:        Friday, 10th June, 2016 
@@ -74,20 +80,14 @@ Papers should be submitted via
   * Author notification:        Friday, 8th July, 2016
   * Workshop:                   Sunday, 18th September, 2016
 
-Submitted papers should fall into one of two categories:
-
-  * Regular research papers (12 pages)
-  * Extended abstracts (2 pages)
-
 Regular research papers are expected to present novel and interesting
 research results. Extended abstracts should report work in progress
 that the authors would like to present at the workshop. 
 
 All submissions should be in portable document format (PDF), formatted
-using the ACM SIGPLAN style guidelines (two-column, 9pt). Regular
-research papers must not exceed 12 pages. Extended abstracts must not
-exceed 2 pages. Extended abstracts must be submitted with the label
-'Extended abstract' clearly in the title.
+using the ACM SIGPLAN style guidelines (two-column, 9pt).  Extended
+abstracts must be submitted with the label 'Extended abstract' clearly
+in the title.
 
 ### Travel Support
 
