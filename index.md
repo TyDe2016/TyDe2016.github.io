@@ -75,7 +75,7 @@ Submitted papers should fall into one of two categories:
 Submission is via
 [Easychair](https://easychair.org/conferences/?conf=tyde16).
 
-  * Submission deadline:        Friday, 10th June, 2016 
+  * Regular paper deadline:     Friday, 10th June, 2016 
   * Extended abstract deadline: Friday, 24th June, 2016
   * Author notification:        Friday, 8th July, 2016
   * Workshop:                   Sunday, 18th September, 2016
