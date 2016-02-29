@@ -23,7 +23,7 @@ together leading researchers and practitioners in generic programming
 and dependently typed programming from around the world, and features
 papers capturing the state of the art in these important areas.
 
-We welcome all contributions, both theoretical and practical of:
+We welcome all contributions, both theoretical and practical, on:
 
   * dependently typed programming;
   * generic programming;
