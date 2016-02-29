@@ -1,5 +1,5 @@
 ---
-title: 1st Workshop on Type-Driven Development (TyDe '16)
+title: TyDe '16
 layout: default
 ---
 
