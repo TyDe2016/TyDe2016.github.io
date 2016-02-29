@@ -5,7 +5,7 @@ layout: default
 
 ## Type-directed Development (TyDe '16)
 
-### 1st Workshop on Dependently typed and Generic Programming
+### 1st Workshop on Dependently Typed and Generic Programming
 
 ### Goals of the workshop
 
