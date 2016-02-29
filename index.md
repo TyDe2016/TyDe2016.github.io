@@ -3,7 +3,9 @@ title: TyDe '16
 layout: default
 ---
 
-## 1st Workshop on Type-directed Development (TyDe '16)
+## Type-directed Development (TyDe '16)
+
+### 1st Workshop on Dependently typed and Generic Programming
 
 ### Goals of the workshop
 
