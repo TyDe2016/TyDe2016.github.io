@@ -66,7 +66,6 @@ weeks after the conference.
 
 ### Submission details
 
-
 Submitted papers should fall into one of two categories:
 
   * Regular research papers (12 pages)
@@ -74,11 +73,6 @@ Submitted papers should fall into one of two categories:
 
 Submission is via
 [Easychair](https://easychair.org/conferences/?conf=tyde16).
-
-  * Regular paper deadline:     Friday, 10th June, 2016 
-  * Extended abstract deadline: Friday, 24th June, 2016
-  * Author notification:        Friday, 8th July, 2016
-  * Workshop:                   Sunday, 18th September, 2016
 
 Regular research papers are expected to present novel and interesting
 research results. Extended abstracts should report work in progress
@@ -88,6 +82,13 @@ All submissions should be in portable document format (PDF), formatted
 using the ACM SIGPLAN style guidelines (two-column, 9pt).  Extended
 abstracts must be submitted with the label 'Extended abstract' clearly
 in the title.
+
+### Important Dates
+
+  * Regular paper deadline:     Friday, 10th June, 2016 
+  * Extended abstract deadline: Friday, 24th June, 2016
+  * Author notification:        Friday, 8th July, 2016
+  * Workshop:                   Sunday, 18th September, 2016
 
 ### Travel Support
 
