@@ -78,6 +78,9 @@ Regular research papers are expected to present novel and interesting
 research results. Extended abstracts should report work in progress
 that the authors would like to present at the workshop. 
 
+We welcome submissions from PC members (with the exception of the two
+co-chairs), but these submissions will be held to a higher standard.
+
 All submissions should be in portable document format (PDF), formatted
 using the ACM SIGPLAN style guidelines (two-column, 9pt).  Extended
 abstracts must be submitted with the label 'Extended abstract' clearly
