@@ -9,12 +9,12 @@ layout: default
 
 ### Goals of the workshop
 
-
 The workshop on Type-Driven Development aims to show how static type
 information may be used effectively in the development of computer
-programs. The workshop unifies two workshops that have been held
-previously at ICFP: the Workshop on Dependently Typed Programming and
-the Workshop on Generic Programming.
+programs. The workshop, co-located with
+[ICFP](http://www.icfpconference.org/icfp2016), unifies two workshops: the
+Workshop on Dependently Typed Programming and the Workshop on Generic
+Programming.
 
 These two research areas have a rich history and bridge both theory and
 practice. Novel techniques explored by both communities has gradually
@@ -47,10 +47,11 @@ We welcome all contributions, both theoretical and practical, on:
 * [Keiko Nakata](http://cs.ioc.ee/~keiko/), FireEye
 * [Tomas Petricek](http://tomasp.net/), University of Cambridge
 * [Birgitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University
-* [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/), University of Leuven
-* Makoto Takeyama, University of Kanagawa
-* [Brent Yorgey](http://dept.cs.williams.edu/~byorgey/), Hendrix College
+* [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/), KU Leuven
+* Makoto Takeyama, Kanagawa University
 * [Nicolas Wu](http://zenzike.com/), University of Bristol
+* [Brent Yorgey](http://dept.cs.williams.edu/~byorgey/), Hendrix College
+
 
 ### Proceedings and Copyright
 
