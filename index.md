@@ -69,8 +69,8 @@ weeks after the conference.
 
 Submitted papers should fall into one of two categories:
 
-  * Regular research papers (12 pages)
-  * Extended abstracts (2 pages)
+  * Regular research papers (12 pages, excluding bibliography)
+  * Extended abstracts (2 pages, including bibliography)
 
 Submission is via
 [Easychair](https://easychair.org/conferences/?conf=tyde16).
