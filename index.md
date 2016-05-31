@@ -44,7 +44,7 @@ We welcome all contributions, both theoretical and practical, on:
 * [Richard Eisenberg](http://www.cis.upenn.edu/~eir/), University of Pennsylvania
 * [Catalin Hritcu](http://prosecco.gforge.inria.fr/personal/hritcu/), INRIA Paris
 * [James McKinna](http://www.inf.ed.ac.uk/people/staff/James_McKinna.html), University of Edinburgh
-* [Keiko Nakata], FireEye, Dresden
+* [Keiko Nakata](https://www.fireeye.com), FireEye, Dresden
 * [Tomas Petricek](http://tomasp.net/), University of Cambridge
 * [Birgitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University
 * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/), KU Leuven
