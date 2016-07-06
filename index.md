@@ -41,7 +41,7 @@ We welcome all contributions, both theoretical and practical, on:
 * [Wouter Swierstra](http://www.staff.science.uu.nl/~swier004), University of Utrecht (co-chair)
 * [David Christiansen](https://www.itu.dk/people/drc/), Indiana University 
 * [Pierre-Evariste Dagand](https://pages.lip6.fr/Pierre-Evariste.Dagand/), LIP6
-* [Richard Eisenberg](http://www.cis.upenn.edu/~eir/), University of Pennsylvania
+* [Richard Eisenberg](http://www.cis.upenn.edu/~eir/), Bryn Mawr College
 * [Catalin Hritcu](http://prosecco.gforge.inria.fr/personal/hritcu/), INRIA Paris
 * [James McKinna](http://www.inf.ed.ac.uk/people/staff/James_McKinna.html), University of Edinburgh
 * [Keiko Nakata](https://www.fireeye.com), FireEye, Dresden
