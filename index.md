@@ -92,6 +92,7 @@ in the title.
   * Regular paper deadline:     Friday, 10th June, 2016 
   * Extended abstract deadline: Friday, 24th June, 2016
   * Author notification:        Friday, 8th July, 2016
+  * Camera ready deadline:      Sunday, 31st July, 2016
   * Workshop:                   Sunday, 18th September, 2016
 
 ### Travel Support
