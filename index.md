@@ -52,6 +52,30 @@ We welcome all contributions, both theoretical and practical, on:
 * [Nicolas Wu](http://zenzike.com/), University of Bristol
 * [Brent Yorgey](http://dept.cs.williams.edu/~byorgey/), Hendrix College
 
+### Accepted Contributions
+* Applications of Applicative Proof Search (Regular paper). Liam O'Connor.
+
+* Generic diff3 for Algebraic Datatypes (Regular paper). Marco Vassena.
+
+* Generic Lookup and Update for Infinitary Inductive-Recursive Types (Regular paper). Larry Diehl and Tim Sheard.
+
+* Liberating Effects with Rows and Handlers (Regular paper). Daniel Hillerström and Sam Lindley.
+
+* Programming with Monadic CSP-Style Processes in Dependent Type Theory (Regular paper). Bashar Igried and Anton Setzer.
+
+* An Agda formalisation of the transitive closure of block matrices (Extended abstract). Adam Sandberg Eriksson and P. Jansson.
+
+* APLicative Programming with Naperian Functors (Extended abstract). Jeremy Gibbons.
+
+* Choose Your Own Derivative (Extended abstract). Jennifer Paykin, Antal Spector-Zabusky and Kenneth Foner.
+
+* Generic partially-static data (Extended abstract). David Kaloper and Jeremy Yallop.
+
+
+* Parameterized Extensible Effects and Session Types (Extended abstract). Oleg Kiselyov.
+
+* Programming Assistance for Type-directed Programming (Extended abstract). Peter-Michael Osera.
+
 
 ### Proceedings and Copyright
 
