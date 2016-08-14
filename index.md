@@ -79,23 +79,24 @@ We welcome all contributions, both theoretical and practical, on:
 ### Tentative Programme
 
 |-------|---------------------------------------------------------------------------------------|
-| 09.15 | APLicative Programming with Naperian Functors                                         |
-| 09.35 | Choose Your Own Derivative                                                            |
-| 09.55 | An Agda formalisation of the transitive closure of block matrices                     |
-| 10.15 | *Coffee break*                                                                        |
+| 09.15 | Welcome
+| 09.25 | APLicative Programming with Naperian Functors                                         |
+| 09.45 | Choose Your Own Derivative                                                            |
+| 10.05 | *Coffee break*                                                                        |
 | 10.45 | Generic diff3 for Algebraic Datatypes                                                 |
 | 11.15 | Programming Assistance for Type-directed Programming                                  |
 | 11.35 | Generic partially-static data                                                         |
 | 11.55 | Bidirectional Transformations are Proof-Relevant Bisimulations                        |
 | 12.15 | *Lunch break*                                                                         |
 | 14.00 | Applications of Applicative Proof Search                                              |
-| 14.30 | Generic Lookup and Update for Infinitary Inductive-Recursive Types                    |
+| 14.30 | Liberating Effects with Rows and Handlers                                             |
 | 15.00 | *Coffee break*                                                                        |
 | 15.30 | Programming with Monadic CSP-Style Processes in Dependent Type Theory                 |
-| 16.00 | Liberating Effects with Rows and Handlers                                             |
+| 16.00 | Generic Lookup and Update for Infinitary Inductive-Recursive Types                    |
 | 16.30 | *Coffee break*                                                                        |
 | 17.00 | Parameterized Extensible Effects and Session Types                                    |
-| 17.20 | *Finish*                                                                              |
+| 17.20 | An Agda formalisation of the transitive closure of block matrices                     |
+| 17.40 | *Finish*                                                                              |
 
 ### Proceedings and Copyright
 
